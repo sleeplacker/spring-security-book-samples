@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>startanalysis</artifactId>
+    <artifactId>ch04-startanalysis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>startanalysis</name>
+    <name>ch04-startanalysis</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

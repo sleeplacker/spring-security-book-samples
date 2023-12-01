@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>jdbcuserdetailsmanager</artifactId>
+    <artifactId>ch02-jdbcuserdetailsmanager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jdbcuserdetailsmanager</name>
+    <name>ch02-jdbcuserdetailsmanager</name>
     <description>jdbcuserdetailsmanager</description>
 
     <properties>

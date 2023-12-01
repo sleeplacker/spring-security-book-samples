@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>cors02</artifactId>
+    <artifactId>ch11-cors02</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cors02</name>
+    <name>ch11-cors02</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>base_on_url_dy</artifactId>
+    <artifactId>ch13-base_on_url_dy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>base_on_url_dy</name>
+    <name>ch13-base_on_url_dy</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

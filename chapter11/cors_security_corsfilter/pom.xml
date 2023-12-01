@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>cors_security_corsfilter</artifactId>
+    <artifactId>ch11-cors_security_corsfilter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cors_security_corsfilter</name>
+    <name>ch11-cors_security_corsfilter</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

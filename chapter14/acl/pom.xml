@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>acl</artifactId>
+    <artifactId>ch14-acl</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>acl</name>
+    <name>ch14-acl</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

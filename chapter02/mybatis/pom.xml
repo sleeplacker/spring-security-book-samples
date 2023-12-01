@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>mybatis</artifactId>
+    <artifactId>ch02-mybatis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mybatis</name>
+    <name>ch02-mybatis</name>
     <description>SpringSecurity+mybatis</description>
 
     <properties>

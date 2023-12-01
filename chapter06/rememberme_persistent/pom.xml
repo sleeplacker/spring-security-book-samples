@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>rememberme_persistent</artifactId>
+    <artifactId>ch06-rememberme_persistent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>rememberme_persistent</name>
+    <name>ch06-rememberme_persistent</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

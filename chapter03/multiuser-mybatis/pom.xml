@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>multiuser-mybatis</artifactId>
+    <artifactId>ch03-multiuser-mybatis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>multiuser-mybatis</name>
+    <name>ch03-multiuser-mybatis</name>
     <description>多数据源</description>
 
     <properties>

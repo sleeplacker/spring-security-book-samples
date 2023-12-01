@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>filter_kaptcha</artifactId>
+    <artifactId>ch04-filter_kaptcha</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>filter_kaptcha</name>
+    <name>ch04-filter_kaptcha</name>
     <description>登录验证码</description>
 
     <properties>

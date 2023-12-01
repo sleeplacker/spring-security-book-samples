@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>jpa</artifactId>
+    <artifactId>ch02-jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jpa</name>
+    <name>ch02-jpa</name>
     <description>SpringSecurity+jpa</description>
 
     <properties>

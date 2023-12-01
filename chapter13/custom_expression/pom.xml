@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>custom_expression</artifactId>
+    <artifactId>ch13-custom_expression</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>custom_expression</name>
+    <name>ch13-custom_expression</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

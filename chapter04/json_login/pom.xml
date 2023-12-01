@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>json_login</artifactId>
+    <artifactId>ch04-json_login</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>json_login</name>
+    <name>ch04-json_login</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>exception_translation_filter</artifactId>
+    <artifactId>ch12-exception_translation_filter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>exception_translation_filter</name>
+    <name>ch12-exception_translation_filter</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

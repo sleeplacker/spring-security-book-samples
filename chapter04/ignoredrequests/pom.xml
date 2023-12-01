@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>ignoredrequests</artifactId>
+    <artifactId>ch04-ignoredrequests</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ignoredrequests</name>
+    <name>ch04-ignoredrequests</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

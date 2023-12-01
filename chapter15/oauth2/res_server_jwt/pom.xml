@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>res_server_jwt</artifactId>
+    <artifactId>ch15-res_server_jwt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>res_server_jwt</name>
+    <name>ch15-res_server_jwt</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

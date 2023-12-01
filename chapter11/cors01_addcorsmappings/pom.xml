@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>cors01_addcorsmappings</artifactId>
+    <artifactId>ch11-cors01_addcorsmappings</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cors01_addcorsmappings</name>
+    <name>ch11-cors01_addcorsmappings</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

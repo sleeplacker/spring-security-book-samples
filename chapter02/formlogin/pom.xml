@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>formlogin</artifactId>
+    <artifactId>ch02-formlogin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>formlogin</name>
+    <name>ch02-formlogin</name>
     <description>第2章第一小节案例（表单登录配置细节）</description>
 
     <properties>

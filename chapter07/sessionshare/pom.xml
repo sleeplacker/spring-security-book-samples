@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>sessionshare</artifactId>
+    <artifactId>ch07-sessionshare</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sessionshare</name>
+    <name>ch07-sessionshare</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>csrf-2</artifactId>
+    <artifactId>ch09-csrf-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>csrf-2</name>
+    <name>ch09-csrf-2</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

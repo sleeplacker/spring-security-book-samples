@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>httpfirewall</artifactId>
+    <artifactId>ch08-httpfirewall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>httpfirewall</name>
+    <name>ch08-httpfirewall</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>auth_server_jdbc</artifactId>
+    <artifactId>ch15-auth_server_jdbc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>auth_server_jdbc</name>
+    <name>ch15-auth_server_jdbc</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>token_in_cookie</artifactId>
+    <artifactId>ch09-token_in_cookie</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>token_in_cookie</name>
+    <name>ch09-token_in_cookie</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

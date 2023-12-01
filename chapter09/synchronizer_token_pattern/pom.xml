@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>synchronizer_token_pattern</artifactId>
+    <artifactId>ch09-synchronizer_token_pattern</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>synchronizer_token_pattern</name>
+    <name>ch09-synchronizer_token_pattern</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

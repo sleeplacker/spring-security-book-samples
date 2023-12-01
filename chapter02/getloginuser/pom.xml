@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>getloginuser</artifactId>
+    <artifactId>ch02-getloginuser</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>getloginuser</name>
+    <name>ch02-getloginuser</name>
     <description>获取登录成功后的用户数据</description>
 
     <properties>

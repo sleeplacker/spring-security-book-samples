@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.javaboy</groupId>
-    <artifactId>firstdemo</artifactId>
+    <artifactId>ch02-firstdemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>firstdemo</name>
+    <name>ch02-firstdemo</name>
     <description>第2章第一小节案例</description>
 
     <properties>
